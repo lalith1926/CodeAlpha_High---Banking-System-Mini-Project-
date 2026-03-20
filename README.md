@@ -20,42 +20,30 @@ Simple and user-friendly interface
 
  Technologies Used
 
-Programming Language: (e.g., Java / Python / C++ — update this)
+Programming Language: C Programming language
 
 Concepts:
 
-Object-Oriented Programming (OOP)
+Structures
 
-Classes and Objects
+Functions
 
-Conditional Statements
-
-Loops
+File Handling
 
  Project Structure
 Banking-System/
 │
-├── main file (e.g., main.py / Main.java)
+├── main file 
 ├── Account class file
 ├── Transaction logic
 └── README.md
  How to Run
 1️ Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/lalith1926/CodeAlpha_High---Banking-System-Mini-Project-)
+git clone [[https://github.com/your-username/your-repo-name.git](https://github.com/lalith1926/CodeAlpha_High---Banking-System-Mini-Project-)](https://github.com/lalith1926/CodeAlpha_High---Banking-System-Mini-Project-)
 2️ Navigate to the project folder
 cd your-repo-name
 3️ Run the program
 
-For Python:
-
-python main.py
-
-For Java:
-
-javac Main.java
-java Main
-
-(Modify according to your language)
 
  Learning Outcomes
 
@@ -90,6 +78,6 @@ Login authentication
 
 This project is for educational purposes only.
 
-🙌 Acknowledgement
+ Acknowledgement
 
 Thanks to CodeAlpha Internship Program for providing this opportunity.
