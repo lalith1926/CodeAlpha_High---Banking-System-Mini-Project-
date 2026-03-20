@@ -41,7 +41,7 @@ Banking-System/
 └── README.md
  How to Run
 1️ Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/lalith1926/CodeAlpha_High---Banking-System-Mini-Project-)
 2️ Navigate to the project folder
 cd your-repo-name
 3️ Run the program
